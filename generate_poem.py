@@ -125,6 +125,8 @@ def generate_poem():
 train()
 generate_poem()
 
+# ADDITIONAL TINKERING BELOW
+
 # samples index from probabiltiy distribution (array)
 # def sample(preds, temperature=1.0):
 #     preds = np.asarray(preds).astype('float64')
